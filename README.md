@@ -1,9 +1,5 @@
 <h1 align="center">Node.js template</h1>
 
-## 💻 About
-
-A template for backend projects using typescript
-
 ## 🧪 Technologies
 
 This project was developed by using the following technologies:
@@ -11,6 +7,15 @@ This project was developed by using the following technologies:
 * Typescript
 * Editorconfig
 * Eslint
+
+## 🚀 How to use
+```bash
+  git clone https://github.com/gutemberg-jhonata/node-template.git
+  cd node-template
+```
+## 💻 About
+
+A template for backend projects using typescript.
 
 ## :memo: Licence
 
