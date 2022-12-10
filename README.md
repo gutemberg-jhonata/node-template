@@ -7,6 +7,7 @@ This project was developed by using the following technologies:
 * Typescript
 * Editorconfig
 * Eslint
+* Vitest 
 
 ## 🚀 How to use
 ```bash
