@@ -4,6 +4,7 @@
   "description": "A template for backend projects",
   "license": "MIT",
   "scripts": {
+    "build": "rm -rf dist && tsc -p ./tsconfig-build.json",
     "test": "vitest",
     "test:coverage": "vitest run --coverage"
   },
